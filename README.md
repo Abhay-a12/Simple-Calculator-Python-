@@ -1,2 +1,2 @@
 # Simple-Calculator-Python-
-This a very basic simple calculator created in Python
+This a very basic calculator created in Python
